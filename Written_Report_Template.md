@@ -10,10 +10,10 @@ Steve works in finance industry and helping his parents to analyze the stock mar
 *	Before refactoring 2018,  ran in 0.6679688 seconds and after refactoring ran in 0.1015625 seconds
 
 ### Summary
-Refactoring Advantages
+##### Refactoring Advantages
 *	Good tool to maintain the code
 *	Make the code clean and organized 
-Refactoring Disadvantages
+##### Refactoring Disadvantages
 It’s risky when:
 * The application is big
 *	The existing code doesn’t have proper test cases
