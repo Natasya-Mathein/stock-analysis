@@ -19,7 +19,7 @@ It’s risky when:
 *	The existing code doesn’t have proper test cases
 *	The developers do not understand what is all about 
 
-Refactoring Pros *)  
+##### Refactoring Pros *)  
 *	Chances of Enhancement are high
   If modules have chances to add new features or functionalities then make sure design and current code is good and following Open Close Principle
 *	Code Smell is Detected
@@ -28,7 +28,7 @@ Refactoring Pros *)
   Codes are written badly in some cases, and so many bugs are raised. In this case, fixing of bugs take too much effort. So, the root cause of bugs can   be code smell. So, before fixing bugs code should be refactored.
 *	Peer Review
   Peer review is an important part of code refactoring. If the peer-reviewer finds some code smell then code should be refactored during peer review.
-Refactoring Cons *)
+##### Refactoring Cons *)
 *	Delivery Deadline is near and new development is planned.
 *	The cost of refactoring is higher than rewriting the code from scratch.
 *	Don't refactor the code if you don't have the time to test the refactored code before release. It can introduce bugs. 
